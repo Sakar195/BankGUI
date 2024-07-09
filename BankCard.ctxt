@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BankCard
+comment0.text=\r\n\ super\ class\ bankcard\ ,\ has\ five\ attributes,\r\n\ there\ are\ 8\ methods\r\n\ @author\ (Sakar\ Paudel)\r\n\ @version\ (1-15-2023)\r\n
+comment1.params=balanceAmount\ cardId\ bankAccount\ issuerBank
+comment1.target=BankCard(int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\ constructor\ method\ for\ BankCard\r\nto\ assign\ values\ to\ attributes
+comment2.params=
+comment2.target=java.lang.String\ getclientName()
+comment3.params=
+comment3.target=int\ getbalanceAmount()
+comment4.params=
+comment4.target=int\ getcardId()
+comment5.params=
+comment5.target=java.lang.String\ getbankAccount()
+comment6.params=
+comment6.target=java.lang.String\ getissuerBank()
+comment7.params=clientName
+comment7.target=void\ setclientName(java.lang.String)
+comment8.params=balanceAmount
+comment8.target=void\ setbalanceAmount(int)
+comment9.params=
+comment9.target=void\ display()
+numComments=10

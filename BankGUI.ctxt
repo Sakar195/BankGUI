@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BankGUI
+comment1.params=
+comment1.target=BankGUI()
+comment2.params=
+comment2.target=void\ clear1()
+comment3.params=
+comment3.target=void\ clear2()
+comment4.params=a
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

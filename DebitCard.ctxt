@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DebitCard
+comment0.text=\r\n\ A\ subclass\ of\ bankcard\ which\ is\ debitcard\r\n\ There\ are\ 7\ methods\ and\ 4\ instance\ variables\r\n\ @author\ (Sakar\ Paudel)\r\n\ @version\ (1-15-2023)\r\n
+comment1.params=balanceAmount\ cardId\ bankAccount\ issuerBank\ clientName\ PINnumber
+comment1.target=DebitCard(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\ constructor\ method\ for\ DebitCard\r\nto\ assign\ values\ to\ attributes
+comment2.params=
+comment2.target=int\ getPINnumber()
+comment3.params=
+comment3.target=int\ getwithdrawlAmount()
+comment4.params=
+comment4.target=java.lang.String\ getdateofWithdrawl()
+comment5.params=
+comment5.target=boolean\ ishasWithdrawn()
+comment6.params=withdrawlAmount
+comment6.target=void\ setwithdrawlAmount(int)
+comment7.params=withdrawlAmount\ dateofWithdrawl\ PINnumber
+comment7.target=void\ Withdraw(int,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
